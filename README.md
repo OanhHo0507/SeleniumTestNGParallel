@@ -1,2 +1,1 @@
-# SeleniumTestNGParallel
-Create a project and manage parallel
+Selenium TestNG POM + Parallel Execution
